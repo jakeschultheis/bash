@@ -1,2 +1,4 @@
 # bash
-bash scripts
+bash scripts - useful scripts for day to day activities.
+
+
